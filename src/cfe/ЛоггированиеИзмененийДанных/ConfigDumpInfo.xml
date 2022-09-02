@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="CommonModule.ЛогИ_ОбщийМодуль" id="abdb2a58-125e-4c1b-8a76-804ca4f37b1c" configVersion="678660cad9fb8c9b3542fd40d31034c1aafc66c4"/>
+		<Metadata name="CommonModule.ЛогИ_ОбщийМодуль.Module" id="abdb2a58-125e-4c1b-8a76-804ca4f37b1c.0" configVersion="e85029076758371ece5eb24e52a9eaca4497e7aa"/>
+		<Metadata name="Configuration.ЛоггированиеИзмененийДанных" id="30172c6d-3da1-4e22-a8bb-c10c17414039" configVersion="420e19c4615bdb7e1da43301ee01c1e3eb31d58d"/>
+		<Metadata name="EventSubscription.ЛогИ_ДокументОбъект" id="a58e5dd7-ba32-44a1-bf19-898e7b987173" configVersion="b9f08eaea4c3b2be002c4c44a86e22125f5e46b5"/>
+		<Metadata name="EventSubscription.ЛогИ_КонстантаМенеджерЗначения" id="0494c984-15f4-496b-8f5e-e2a234822979" configVersion="675764e30f3087204173b474451dace2d374adee"/>
+		<Metadata name="EventSubscription.ЛогИ_РегистрНакопленияНаборЗаписей" id="8c981def-61f4-4c28-a7a9-51d5a8687252" configVersion="962ace12a7f9297a167303f024eaf672327fc333"/>
+		<Metadata name="EventSubscription.ЛогИ_РегистрСведенийНаборЗаписей" id="cd254ca5-e530-4a9b-bc65-41adebeacebe" configVersion="ea857d93d3b60d6d71a853a91a7294acb119b502"/>
+		<Metadata name="EventSubscription.ЛогИ_СправочникОбъект" id="7770e4e4-dee2-4d11-81f2-2fd352055e6f" configVersion="a7ebc899f093cc29327783f48b0093899f5b47cf"/>
+		<Metadata name="Language.Русский" id="7b48e546-24d2-4f34-a58c-532764c7500f" configVersion="c78efeb37c42dff6515468dc365d957423bf45da"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
