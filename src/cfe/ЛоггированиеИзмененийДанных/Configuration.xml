@@ -51,7 +51,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>2023.10.11</Version>
+			<Version>2024.05.29</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -65,6 +65,7 @@
 			<CommonModule>ЛогИ_ОбщийМодуль</CommonModule>
 			<EventSubscription>ЛогИ_ДокументОбъект</EventSubscription>
 			<EventSubscription>ЛогИ_КонстантаМенеджерЗначения</EventSubscription>
+			<EventSubscription>ЛогИ_ПланВидовРасчетаМенеджер</EventSubscription>
 			<EventSubscription>ЛогИ_РегистрНакопленияНаборЗаписей</EventSubscription>
 			<EventSubscription>ЛогИ_РегистрСведенийНаборЗаписей</EventSubscription>
 			<EventSubscription>ЛогИ_СправочникОбъект</EventSubscription>
