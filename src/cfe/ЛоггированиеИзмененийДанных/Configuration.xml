@@ -59,7 +59,7 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<Vendor/>
-			<Version>2026.04.01</Version>
+			<Version>2026.04.02</Version>
 			<DefaultLanguage>Language.Русский</DefaultLanguage>
 			<BriefInformation/>
 			<DetailedInformation/>
@@ -71,6 +71,8 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<CommonModule>ЛогИ_ОбщийМодуль</CommonModule>
+			<CommonModule>ЛогИ_ОбщийМодульКлиент</CommonModule>
+			<CommonModule>ПодключаемыеКомандыПереопределяемый</CommonModule>
 			<EventSubscription>ЛогИ_ДокументОбъект</EventSubscription>
 			<EventSubscription>ЛогИ_КонстантаМенеджерЗначения</EventSubscription>
 			<EventSubscription>ЛогИ_ПланВидовРасчетаМенеджер</EventSubscription>
