@@ -4,7 +4,7 @@
 		<Metadata name="CommonModule.ЛогИ_ОбщийМодуль" id="abdb2a58-125e-4c1b-8a76-804ca4f37b1c" configVersion="678660cad9fb8c9b3542fd40d31034c1aafc66c4"/>
 		<Metadata name="CommonModule.ЛогИ_ОбщийМодуль.Module" id="abdb2a58-125e-4c1b-8a76-804ca4f37b1c.0" configVersion="6eb90acca34696beb9e2017748283cd0fe5e5f40"/>
 		<Metadata name="CommonModule.ЛогИ_ОбщийМодульКлиент" id="50c0dcbe-aebf-457b-bf55-f9c2765e710c" configVersion="06ca70c13ba4b3589913e00a3bf0011add55eb3d"/>
-		<Metadata name="CommonModule.ЛогИ_ОбщийМодульКлиент.Module" id="50c0dcbe-aebf-457b-bf55-f9c2765e710c.0" configVersion="9a55989dd31298da179e0a51b9aca214670b0c7a"/>
+		<Metadata name="CommonModule.ЛогИ_ОбщийМодульКлиент.Module" id="50c0dcbe-aebf-457b-bf55-f9c2765e710c.0" configVersion="5953eec7d301108dcb1c6f29b2167cb8f35268ac"/>
 		<Metadata name="CommonModule.ПодключаемыеКомандыПереопределяемый" id="a34f72dd-2d01-4e43-8970-ce30b9b7a6f7" configVersion="2c387827a60f94d860dad59428792e3f0d7de255"/>
 		<Metadata name="CommonModule.ПодключаемыеКомандыПереопределяемый.Module" id="a34f72dd-2d01-4e43-8970-ce30b9b7a6f7.0" configVersion="cc26778b2e73f985b365cc06c7e5442796104c69"/>
 		<Metadata name="Configuration.ЛоггированиеИзмененийДанных" id="30172c6d-3da1-4e22-a8bb-c10c17414039" configVersion="058aeebce96ca36ca299d31e7e48c66cc6b3d1c8"/>
