@@ -1,0 +1,20 @@
+# Loggie
+
+> 1C:Enterprise 8.3 configuration extension that writes before/after values of changed constants, catalogs, documents and registers to the 1C event log.
+
+Loggie (extension `ЛоггированиеИзмененийДанных`, object prefix `ЛогИ_`, compatibility mode 8.3.11) uses BeforeWrite event subscriptions to compare the stored and the new state of an object, including tabular-section rows, and writes the differences to the event log under `Лог. Изменение Данных` (register record sets: `Лог. Изменение Регистров`). It requires a configuration built on 1C:БСП. The source is a Designer XML/BSL dump in `src/cfe`; a built `.cfe` is in the repository root.
+
+## Docs
+
+- [README](https://github.com/WonderMr/Loggie/blob/main/README.md): what the extension does, installation and usage (Russian, English summary on top)
+- [AGENTS.md](https://github.com/WonderMr/Loggie/blob/main/AGENTS.md): layout, rebuild notes, conventions and gotchas for coding agents
+
+## Source
+
+- [ЛогИ_ОбщийМодуль](https://github.com/WonderMr/Loggie/blob/main/src/cfe/ЛоггированиеИзмененийДанных/CommonModules/ЛогИ_ОбщийМодуль/Ext/Module.bsl): server logic, BeforeWrite handlers and the change diff
+- [Event subscriptions](https://github.com/WonderMr/Loggie/tree/main/src/cfe/ЛоггированиеИзмененийДанных/EventSubscriptions): which object types are logged
+- [Configuration.xml](https://github.com/WonderMr/Loggie/blob/main/src/cfe/ЛоггированиеИзмененийДанных/Configuration.xml): extension properties and version
+
+## Optional
+
+- [ЛоггированиеИзмененийДанных.cfe](https://github.com/WonderMr/Loggie/blob/main/ЛоггированиеИзмененийДанных.cfe): built extension file

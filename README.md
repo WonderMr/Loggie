@@ -1,4 +1,7 @@
 # Loggie
+
+Loggie is a 1C:Enterprise 8.3 configuration extension (`.cfe`) that logs detailed data changes to the 1C event log (журнал регистрации): before and after values of changed fields and tabular-section rows of constants, catalogs, documents and information/accumulation registers. It is for 1C administrators and developers who need to find who changed which data, works without modifying the base configuration, and requires a configuration built on 1C:БСП (Standard Subsystems Library).
+
 Детальное логгирование изменений данных в 1С
 # Что это?
 Расширение для платформы 1С (с режимом совместимости не менее 8.3.11), детализируещее изменение данных данных констант, справочников, документов, регистров сведений и накоплений.
